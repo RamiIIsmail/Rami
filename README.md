@@ -44,7 +44,7 @@
     <a href="https://discordapp.com/users/665672119899914241/">
         <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=_rami777_"/>
     </a>
-    <a href="https://www.youtube.com/@coruja2808">
+    <a href="https://www.youtube.com/@RamiDsz">
         <img alt="Youtube" src="https://img.shields.io/static/v1?style=flat&logo=youtube&logoColor=white&color=%23FF0000&label=&message=RamiDsz"/>
     </a>
 </p>
